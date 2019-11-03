@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5166743c1f681820f02e25fd09e0754",
+    "revision": "19be078c2bf5b6b3740212d24f897394",
     "url": "/maximum-city/index.html"
   },
   {
-    "revision": "47692c456e496ed7a501",
+    "revision": "f78022a9a8498ddd4cb4",
     "url": "/maximum-city/static/css/main.a664495a.chunk.css"
   },
   {
-    "revision": "10fd3b7f58ff144e4f9e",
-    "url": "/maximum-city/static/js/2.d33b8847.chunk.js"
+    "revision": "cb91208a8246e8e11d00",
+    "url": "/maximum-city/static/js/2.37fc8aa4.chunk.js"
   },
   {
-    "revision": "47692c456e496ed7a501",
-    "url": "/maximum-city/static/js/main.1f1c14d7.chunk.js"
+    "revision": "f78022a9a8498ddd4cb4",
+    "url": "/maximum-city/static/js/main.a1e61ce8.chunk.js"
   },
   {
     "revision": "1672c34bcfa9e7613714",
