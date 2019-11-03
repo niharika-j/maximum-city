@@ -2,6 +2,10 @@
 
 Maximum City is a website that is a submission for assignment 6B in SSUI lab in MHCI program at Carnegie Mellon University. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site
+
+https://github.com/niharika-j/maximum-city
+
 
 ## Extra Features
 
