@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, BrowserRouter as Router, Redirect, Link } from "react-router-dom";
+import { Switch, Route, HashRouter, Redirect, Link } from "react-router-dom";
 import appRoutes from "./shared/appRoutes";
 import './App.css';
 
@@ -11,7 +11,7 @@ import Place from './containers/place/place.js';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter basename="/">
         <div className="header">
           <nav>
             <ul>
@@ -39,7 +39,7 @@ function App() {
             </Switch>
           </div>
         </div>
-      </Router>
+      </HashRouter>
     </div>
   );
 }
