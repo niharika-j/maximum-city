@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/maximum-city/static/css/main.a664495a.chunk.css",
+    "main.js": "/maximum-city/static/js/main.1f1c14d7.chunk.js",
+    "main.js.map": "/maximum-city/static/js/main.1f1c14d7.chunk.js.map",
+    "runtime-main.js": "/maximum-city/static/js/runtime-main.a6bd319d.js",
+    "runtime-main.js.map": "/maximum-city/static/js/runtime-main.a6bd319d.js.map",
+    "static/js/2.d33b8847.chunk.js": "/maximum-city/static/js/2.d33b8847.chunk.js",
+    "static/js/2.d33b8847.chunk.js.map": "/maximum-city/static/js/2.d33b8847.chunk.js.map",
+    "index.html": "/maximum-city/index.html",
+    "precache-manifest.cb83da9d0c8205c8d2747a6a5333f4d0.js": "/maximum-city/precache-manifest.cb83da9d0c8205c8d2747a6a5333f4d0.js",
+    "service-worker.js": "/maximum-city/service-worker.js",
+    "static/css/main.a664495a.chunk.css.map": "/maximum-city/static/css/main.a664495a.chunk.css.map",
+    "static/media/caves.jpg": "/maximum-city/static/media/caves.ea91cae3.jpg",
+    "static/media/food.jpg": "/maximum-city/static/media/food.06735250.jpg",
+    "static/media/marine drive.jpg": "/maximum-city/static/media/marine drive.91494d57.jpg",
+    "static/media/park.jpg": "/maximum-city/static/media/park.72425849.jpg",
+    "static/media/shopping.jpg": "/maximum-city/static/media/shopping.c37d8fc1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6bd319d.js",
+    "static/js/2.d33b8847.chunk.js",
+    "static/css/main.a664495a.chunk.css",
+    "static/js/main.1f1c14d7.chunk.js"
+  ]
+}
