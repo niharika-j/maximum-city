@@ -1,0 +1,35 @@
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 20px 40px;
+}
+.bigTitle {
+    width: 40%;
+    color: #FEDA6A;
+    font-family: Impact;
+    font-weight: 900;
+    font-size: 144px;
+}
+
+.description {
+    width: 30%;
+    margin-top: 40px;
+    font-family: Arial;
+    font-size: 18px;
+    color: #D4D4DC;
+    line-height: 30px;
+}
+
+.explore-btn {
+    background-color: #FEDA6A;
+    color: #393F4D;
+    font-family: Impact;
+    font-weight: 900;
+    font-size: 36px;
+    padding: 5px 10px;
+    margin-top: 50px;
+    box-shadow: 3px 3px 5px #FEDA6A;
+    cursor: pointer;
+}
