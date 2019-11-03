@@ -4,7 +4,7 @@ Maximum City is a website that is a submission for assignment 6B in SSUI lab in 
 
 ## Live Site
 
-https://github.com/niharika-j/maximum-city
+https://niharika-j.github.io/maximum-city/
 
 
 ## Extra Features
